@@ -21,7 +21,7 @@
 		"docs": "http://mpdf.github.io"
 	},
 	"require": {
-		"php": ">=8.1",
+		"php": ">=8.0",
 		"ext-gd": "*",
 		"ext-mbstring": "*",
 		"myclabs/deep-copy": "^1.7",
